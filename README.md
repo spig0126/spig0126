@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100)
 
 # Welcome to Yeonhee's Github👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fspig0126%2Fhit-counter&count_bg=%233D91C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
