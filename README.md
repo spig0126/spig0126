@@ -6,7 +6,8 @@
 <a href="mailto:spig0126@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=gmail&logoColor=white"/>
 
 ## Experience 🔥
-- (2024.04 ~ ) AWS Cloud Clubs at 이화여자대학교 ACC 2기
+- (2024.07 ~ ) SSAFY 12기
+- (2024.04 ~ 2024.07) AWS Cloud Clubs at 이화여자대학교 ACC 2기
 - (2023.10 ~ ) 예비창업패키지 선정 - '게더어스' 앱 출시 
 - (2023.07) 캡스톤디자인과창업프로젝트 포스터세션 장려상
 - (2023.05) 대한전자공학회 2023년도 하계종합학술대회 합격
